@@ -12,7 +12,6 @@ void testApp::update(){
 	p.addForce(0, 0.1);
 	p.addDampingForce();
 	p.update();
-    
 }
 
 void testApp::draw(){
