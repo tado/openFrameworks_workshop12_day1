@@ -169,7 +169,7 @@
 		1883796F145480A400C362B8 /* tinyxmlparser.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = tinyxmlparser.cpp; sourceTree = "<group>"; };
 		18837971145480A400C362B8 /* ofxXmlSettings.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = ofxXmlSettings.cpp; sourceTree = "<group>"; };
 		18837972145480A400C362B8 /* ofxXmlSettings.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ofxXmlSettings.h; sourceTree = "<group>"; };
-		188DB4D9145659E2003CB1AD /* OpencvParticleParticleDebug.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = OpencvParticleParticleDebug.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		188DB4D9145659E2003CB1AD /* OpencvParticleParticle.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = OpencvParticleParticle.app; path = /Users/tado/Documents/OpenFrameworks/of_preRelease_v007_osx/apps/openFrameworks_workshop12_day1/26_OpencvParticleParticle/bin/OpencvParticleParticle.app; sourceTree = "<absolute>"; };
 		189318471455E8A400F72400 /* BackgroundSubtraction.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BackgroundSubtraction.h; sourceTree = "<group>"; };
 		189318481455E8AF00F72400 /* BackgroundSubtraction.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = BackgroundSubtraction.cpp; sourceTree = "<group>"; };
 		3c232045833313b99efe0b14840b6108 /* ofxCvMain.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ofxCvMain.h; path = ../../../addons/ofxOpenCv/src/ofxCvMain.h; sourceTree = SOURCE_ROOT; };
@@ -429,7 +429,6 @@
 				E4EEC9E9138DF44700A80321 /* openFrameworks */,
 				BB4B014C10F69532006C3DED /* addons */,
 				E45BE5980E8CC70C009D7055 /* frameworks */,
-				188DB4D9145659E2003CB1AD /* OpencvParticleParticleDebug.app */,
 			);
 			sourceTree = "<group>";
 		};
@@ -512,7 +511,7 @@
 			);
 			name = OpencvParticleParticle;
 			productName = myOFApp;
-			productReference = 188DB4D9145659E2003CB1AD /* OpencvParticleParticleDebug.app */;
+			productReference = 188DB4D9145659E2003CB1AD /* OpencvParticleParticle.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
